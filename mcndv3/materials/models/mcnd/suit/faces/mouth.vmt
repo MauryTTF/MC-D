@@ -1,7 +1,0 @@
-"Teeth"
-{
-	"$basetexture" "models\mcnd\suit\faces\mouth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-	"$halflambert" 1
-}

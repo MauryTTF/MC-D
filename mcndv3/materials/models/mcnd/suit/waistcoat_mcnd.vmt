@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\mcnd\suit/waistcoat"
-	"$bumpmap" "models\mcnd\suit/suit_normal"
-        "$nocull" "0"
-}
