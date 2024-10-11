@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mcnd\suit/mcnd_suit"
+	"$bumpmap" "models\mcnd\suit/suit_normal"
+
+}

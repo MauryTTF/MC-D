@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$baseTexture "models\mcnd/suit/kevlar_vest"
+$bumpmap "models\mcnd/suit/kevlar_vest_normal"
+
+}

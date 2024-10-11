@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"	"models/scp_mtf_A1/shared/alpha_headgear2"
+	"$bumpmap"	"models/scp_mtf_A1/shared/headgear_02_normal"
+
+ 	"$halflambert"		"1"
+
+	"$phong"			"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[0.01]"
+	"$phongexponent"		"20"
+	"$phongalbedotint"		"1"
+}

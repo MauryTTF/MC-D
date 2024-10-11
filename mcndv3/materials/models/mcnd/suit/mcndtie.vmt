@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mcnd\suit/mcndtie"
+	"$bumpmap" "models\mcnd\suit\faces/normalmap_flat"
+}
